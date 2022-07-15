@@ -1,7 +1,8 @@
 # ENet-6mA
 Identification of 6mA modification sites in Plant Genomes using ElasticNet and Neural Networks
 
-[block.pdf](https://github.com/Z-Abbas/ENet-6mA/files/9116916/block.pdf)
+
+![block](https://user-images.githubusercontent.com/80881943/179127910-bc88a2d1-13bc-40bc-b2d7-ee4ee0489bbb.PNG)
 
 
 # Specifications
