@@ -10,4 +10,4 @@ Python 3.7\
 numpy 1.19.4\
 pandas 1.1.0\
 tensorflow 2.1.0\
-keras 2.3.1\
+keras 2.3.1
