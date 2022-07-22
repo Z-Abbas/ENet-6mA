@@ -9,7 +9,6 @@ Identification of 6mA modification sites in Plant Genomes using ElasticNet and N
 1. Data preprocessing (Apply encoding methods)
 2. Apply ElasticNet 
 3. Train using CNN model
-
 4. Prepare Test data using the index numbers saved from training
 5. Independent Testing
 
